@@ -1,5 +1,5 @@
 function setup() {
-    var myCanvas = createCanvas(1200, 500);
+    var myCanvas = createCanvas(700, 500);
     myCanvas.parent('p2');
     // createCanvas(windowWidth, windowHeight);
     noLoop();
